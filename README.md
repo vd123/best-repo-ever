@@ -1,2 +1,3 @@
 # best-repo-ever
-Conflict example 
+2nd change using new-branch-2
+
