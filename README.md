@@ -1,3 +1,2 @@
 # best-repo-ever
-Edited
-Final edit
+Conflict example 
